@@ -1,0 +1,4 @@
+{
+  "endpoint": "https://api.narakeet.com/text-to-speech/mp3",
+  "auth_token": ""
+}
